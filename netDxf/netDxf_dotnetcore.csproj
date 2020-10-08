@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AssemblyTitle>netDxf</AssemblyTitle>
+    <AssemblyDescription>.net Dxf Reader-Writer</AssemblyDescription>
+    <AssemblyProduct>netDxf</AssemblyProduct>
+    <AssemblyCopyright>Daniel Carvajal ©  2019</AssemblyCopyright>
+    <AssemblyVersion>2.3.1.0</AssemblyVersion>
+    <AssemblyFileVersion>2.3.1.0</AssemblyFileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="4.7.0" />
+  </ItemGroup>
+
+</Project>
